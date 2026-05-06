@@ -1,2 +1,4 @@
-Mozilla/5.0 (Linux; Android 11; Mi A3 Build/RKQ1.200903.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.178 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 14; V2344 Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.177 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/554.0.0.57.70;IABMV/1;]
+[fban/fb4a;fbav/300.2.0.58.129;fbbv/265244930;fbdm/{density=1.5,width=540,height=960};fblc/en_us;fbcr/telstra;fbmf/samsung;fbbd/samsung;fbpn/com.facebook.katana;fbdv/sm-j250g;fbsv/7.1.1;fbop/1;fbca/armeabi-v7a:armeabi;]
+[fban/fb4a;fbav/309.0.0.47.119;fbbv/277444780;fbdm/{density=3.0,width=1080,height=2076};fblc/en_us;fbcr/mint;fbmf/samsung;fbbd/samsung;fbpn/com.facebook.katana;fbdv/sm-n960u;fbsv/10;fbop/1;fbca/arm64-v8a:;]
+[fban/fb4a;fbav/354.0.0.22.110;fbbv/350972582;fbdm/{density=2.625,width=1080,height=2094};fblc/en_us;fbcr/zong;fbmf/samsung;fbbd/samsung;fbpn/com.facebook.katana;fbdv/sm-g955f;fbsv/9;fbop/19;fbca/arm64-v8a:;]
+[fban/fb4a;fbav/354.0.0.22.110;fbbv/350972604;fbdm/{density=3.0,width=1080,height=2051};fblc/ru_ru;fbcr/bakcell;fbmf/samsung;fbbd/samsung;fbpn/com.facebook.katana;fbdv/DV/SM-N975F;FBSV/12;FBOP/19;FBCA/arm64-v8a:;]
