@@ -1,11 +1,7 @@
-Mozilla/5.0 (Linux; Android 12; V2204 Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36 Channel/release AppName/ultralite app_version/29.7.3 Region/PH ByteLocale/en ByteFullLocale/en
-Mozilla/5.0 (Linux; Android 15; 23124RA7EO Build/AQ3A.240829.003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.7559.59 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-J415F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/8.0 Chrome/63.0.3239.111 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 15; 2409BRN2CY Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.7559.59 Mobile Safari/537.36
-Mozilla/5.0 (Linux; U; Android 13; lo-la; CPH2365 Build/TP1A.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.72 Mobile Safari/537.36 HeyTapBrowser/45.13.0.1
-Mozilla/5.0 (Linux; Android 15; Infinix X6725C Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/144.0.7559.59 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/491.0.0.58.78;]
-Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 14; RMX3760 Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.7632.120 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/531.0.0.47.70;IABMV/1;]
-Mozilla/5.0 (Linux; Android 10; RMX3063 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.7632.154 Mobile Safari/537.36 Instagram 419.0.0.49.71 Android (29/10; 320dpi; 720x1600; realme; RMX3063; RMX3063; mt6765; en_GB; 896334170; IABMV/1) NV/5
-Mozilla/5.0 (Linux; Android 15; V2246 Build/AP3A.240905.015.A2_MOD1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/145.0.7632.157 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/551.1.0.58.63;IABMV/1;] FBNV/500
-Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-J415F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/8.2 Chrome/63.0.3239.111 Mobile Safari/537.36
+[FBAN/FB4A;FBAV/319.0.0.39.120;FBBV/292233375;FBDM/{density=3.1875,width=1080,height=2168};FBLC/ru_RU;FBCR/ROSTELECOM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A315F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/333.0.0.30.119;FBBV/313672647;FBDM/{density=3.1875,width=1080,height=2104};FBLC/ru_RU;FBCR/YOTA;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-M315F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
+FBAN/FB4A;FBAV/312.0.0.50.119;FBBV/281234567;FBDM/{density=2.75,width=720,height=1640};FBLC/en_US;FBCR/Generic;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix-Hot-40-i;FBSV/13;FBOP/19;FBCA/arm64-v8a:
+[FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/350972594;FBDM/{density=1.75,width=720,height=1382};FBLC/ru_RU;FBCR/AZERCELL;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A105F;FBSV/11;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+FBAN/FB4A;FBAV/313.0.0.55.120;FBBV/282987654;FBDM/{density=2.75,width=720,height=1640};FBLC/en_US;FBCR/Generic;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix-Hot-40-i;FBSV/13;FBOP/20;FBCA/arm64-v8a:;
+[FBAN/FB4A;FBAV/377.0.0.22.107;FBBV/385537869;FBDM/{density=2.625,width=1080,height=2186};FBLC/ru_RU;FBCR/LV TELE2;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A515F;FBSV/12;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/377.0.0.22.107;FBBV/385537869;FBDM/{density=2.75,width=1080,height=2166};FBLC/ru_RU;FBCR/AQUAFON;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/2109119DG;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
