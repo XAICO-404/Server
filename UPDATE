@@ -1,7 +1,5 @@
-[FBAN/FB4A;FBAV/319.0.0.39.120;FBBV/292233375;FBDM/{density=3.1875,width=1080,height=2168};FBLC/ru_RU;FBCR/ROSTELECOM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A315F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/333.0.0.30.119;FBBV/313672647;FBDM/{density=3.1875,width=1080,height=2104};FBLC/ru_RU;FBCR/YOTA;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-M315F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
-FBAN/FB4A;FBAV/312.0.0.50.119;FBBV/281234567;FBDM/{density=2.75,width=720,height=1640};FBLC/en_US;FBCR/Generic;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix-Hot-40-i;FBSV/13;FBOP/19;FBCA/arm64-v8a:
-[FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/350972594;FBDM/{density=1.75,width=720,height=1382};FBLC/ru_RU;FBCR/AZERCELL;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A105F;FBSV/11;FBOP/19;FBCA/armeabi-v7a:armeabi;]
-FBAN/FB4A;FBAV/313.0.0.55.120;FBBV/282987654;FBDM/{density=2.75,width=720,height=1640};FBLC/en_US;FBCR/Generic;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix-Hot-40-i;FBSV/13;FBOP/20;FBCA/arm64-v8a:;
-[FBAN/FB4A;FBAV/377.0.0.22.107;FBBV/385537869;FBDM/{density=2.625,width=1080,height=2186};FBLC/ru_RU;FBCR/LV TELE2;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A515F;FBSV/12;FBOP/19;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/377.0.0.22.107;FBBV/385537869;FBDM/{density=2.75,width=1080,height=2166};FBLC/ru_RU;FBCR/AQUAFON;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/2109119DG;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
+Mozilla/5.0 (Linux; Android 14; CPH2579 Build/UP1A.230620.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.119 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Infinix X6886 Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.119 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/548.1.0.51.64;IABMV/1;]
+Mozilla/5.0 (Linux; U; Android 2.3.5; en-us; XT603 Build/5.5.1Q-117_PAX-79) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1	Android 
+[FBAN/FB4A;FBAV/556.0.0.60.64;FBBV/933279809;FBDM/{density=3.375,width=1080,height=2400};FBLC/en_US;FBRV/937983962;FBCR/T-Mobile SMS;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g power 5G - 2024;FBSV/15;FBOP/1;FBCA/arm64-v8a:;]
+Mozilla/5.0 (Linux; Android 15; CPH2617 Build/AP3A.240617.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.141 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/552.1.0.45.68;IABMV/1;]
