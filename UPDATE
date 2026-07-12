@@ -1,5 +1,7 @@
-[FBAN/FB4A;FBAV/300.2.0.58.129;FBBV/265245036;FBDM/{density=3.75,width=1440,height=2780};FBLC/sv_SE;FBCR/ Com Hem;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G960F;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/359.0.0.30.118;FBBV/358613821;FBDM/{density=3.0,width=1080,height=2168};FBLC/uk_UA;FBCR/Orange;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G780G;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/309.0.0.47.119;FBBV/277444780;FBDM/{density=3.0,width=1080,height=2076};FBLC/de_DE;FBCR/smartmobil.de;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G960F;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
-[fban/fb4a;fbav/300.2.0.58.129;fbbv/265244930;fbdm/{density=1.5,width=540,height=960};fblc/en_us;fbcr/telstra;fbmf/samsung;fbbd/samsung;fbpn/com.facebook.katana;fbdv/sm-j250g;fbsv/7.1.1;fbop/1;fbca/armeabi-v7a:armeabi;]
-[fban/fb4a;fbav/309.0.0.47.119;fbbv/277444780;fbdm/{density=3.0,width=1080,height=2076};fblc/en_us;fbcr/mint;fbmf/samsung;fbbd/samsung;fbpn/com.facebook.katana;fbdv/sm-n960u;fbsv/10;fbop/1;fbca/arm64-v8a:;]
+Mozilla/5.0 (Linux; Android 15; 23124RA7EO Build/AQ3A.240829.003; ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.146 Mobile Safari/537.36 BingSapphire/32.7.440107006
+Mozilla/5.0 (Linux; U; Android 8.1.0; CPH1909 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36 OPR/94.0.2254.78662
+Mozilla/5.0 (Linux; Android 8.1.0; Redmi S2 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Mobile Safari/537.36 YaApp_Android/10.30 YaSearchBrowser/10.30
+Mozilla/5.0 (Linux; U; Android 8.1.0; CPH1909 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36 OPR/94.0.2254.78662	Android
+Mozilla/5.0 (Linux; U; Android 13; TECNO BG6 Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/141.0.7390.122 Mobile Safari/537.36 OPR/96.1.2254.80015
+Mozilla/5.0 (Linux; Android 12; V2204 Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36 Channel/release AppName/ultralite app_version/29.7.3 Region/PH ByteLocale/en ByteFullLocale/en
+Mozilla/5.0 (Linux; Android 15; 23124RA7EO Build/AQ3A.240829.003) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.7559.59 Mobile Safari/537.36
