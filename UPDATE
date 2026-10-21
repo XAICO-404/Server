@@ -1,5 +1,8 @@
-Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 16; SM-S921B Build/BP4A.251205.006; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/154.0.8037.106 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/583.0.0.29.95;]
-Mozilla/5.0 (Linux; Android 15; moto g54 5G Build/V1TDS35H.83-20-5-8-6; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/155.0.8059.43 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/582.0.0.61.92;]
-Mozilla/5.0 (Linux; Android 14; SM-A556E Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.122 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/582.0.0.61.92;]
-Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36
+[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129309;FBDM/{density=4.0,width=1440,height=2560};FBLC/uk_UA;FBCR/KYIVSTAR;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G935F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/273.0.0.39.123;FBBV/218047971;FBDM/{density=2.625,width=1080,height=2094};FBLC/en_US;FBCR/AT&amp-T;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G965U;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/319.0.0.39.120;FBBV/292233375;FBDM/{density=3.1875,width=1080,height=2168};FBLC/ru_RU;FBCR/ROSTELECOM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A315F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/333.0.0.30.119;FBBV/313672647;FBDM/{density=3.1875,width=1080,height=2104};FBLC/ru_RU;FBCR/YOTA;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-M315F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
+FBAN/FB4A;FBAV/312.0.0.50.119;FBBV/281234567;FBDM/{density=2.75,width=720,height=1640};FBLC/en_US;FBCR/Generic;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix-Hot-40-i;FBSV/13;FBOP/19;FBCA/arm64-v8a:
+[FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/350972594;FBDM/{density=1.75,width=720,height=1382};FBLC/ru_RU;FBCR/AZERCELL;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A105F;FBSV/11;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+FBAN/FB4A;FBAV/313.0.0.55.120;FBBV/282987654;FBDM/{density=2.75,width=720,height=1640};FBLC/en_US;FBCR/Generic;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix-Hot-40-i;FBSV/13;FBOP/20;FBCA/arm64-v8a:;
+[FBAN/FB4A;FBAV/377.0.0.22.107;FBBV/385537869;FBDM/{density=2.625,width=1080,height=2186};FBLC/ru_RU;FBCR/LV TELE2;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A515F;FBSV/12;FBOP/19;FBCA/arm64-v8a:;]
