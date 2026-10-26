@@ -1,15 +1,12 @@
-[FBAN/FB4A;FBAV/285.0.0.43.120;FBBV/240747352;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBCR/Koodo;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A530W;FBSV/9;FBOP/19;FBCA/arm64-v8a:;
-[FBAN/FB4A;FBAV/278.0.0.51.119;FBBV/229281782;FBDM/{density=3.5,width=1440,height=2792};FBLC/en_US;FBCR/Verizon ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G965U;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/276.0.0.44.127;FBBV/225129309;FBDM/{density=4.0,width=1440,height=2560};FBLC/uk_UA;FBCR/KYIVSTAR;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G935F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/273.0.0.39.123;FBBV/218047971;FBDM/{density=2.625,width=1080,height=2094};FBLC/en_US;FBCR/AT&amp-T;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G965U;FBSV/10;FBOP/19;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/319.0.0.39.120;FBBV/292233375;FBDM/{density=3.1875,width=1080,height=2168};FBLC/ru_RU;FBCR/ROSTELECOM;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A315F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/333.0.0.30.119;FBBV/313672647;FBDM/{density=3.1875,width=1080,height=2104};FBLC/ru_RU;FBCR/YOTA;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-M315F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
-FBAN/FB4A;FBAV/312.0.0.50.119;FBBV/281234567;FBDM/{density=2.75,width=720,height=1640};FBLC/en_US;FBCR/Generic;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix-Hot-40-i;FBSV/13;FBOP/19;FBCA/arm64-v8a:
-[FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/350972594;FBDM/{density=1.75,width=720,height=1382};FBLC/ru_RU;FBCR/AZERCELL;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A105F;FBSV/11;FBOP/19;FBCA/armeabi-v7a:armeabi;]
-FBAN/FB4A;FBAV/313.0.0.55.120;FBBV/282987654;FBDM/{density=2.75,width=720,height=1640};FBLC/en_US;FBCR/Generic;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix-Hot-40-i;FBSV/13;FBOP/20;FBCA/arm64-v8a:;
-[FBAN/FB4A;FBAV/377.0.0.22.107;FBBV/385537869;FBDM/{density=2.625,width=1080,height=2186};FBLC/ru_RU;FBCR/LV TELE2;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A515F;FBSV/12;FBOP/19;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/377.0.0.22.107;FBBV/385537869;FBDM/{density=2.75,width=1080,height=2166};FBLC/ru_RU;FBCR/AQUAFON;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/2109119DG;FBSV/12;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/348.0.0.39.118;FBBV/338919018;FBDM/{density=3.375,width=1080,height=2150};FBLC/es_LA;FBCR/TELCEL;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A515F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/380.0.0.29.109;FBBV/390885064;FBDM/{density=1.75,width=720,height=1396};FBLC/ru_RU;FBCR/K-Telecom;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J610FN;FBSV/10;FBOP/19;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/350972577;FBDM/{density=3.0,width=1080,height=1920};FBLC/ru_RU;FBCR/UMS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J730FM;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
-[FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/350972595;FBDM/{density=3.0,width=1080,height=2076};FBLC/ru_RU;FBCR/LV TELE2;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A605FN;FBSV/10;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+Mozilla/5.0 (Linux; U; Android 15; en-gb; CPH2617 Build/AP3A.240617.008) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.72 Mobile Safari/537.36 HeyTapBrowser/45.13.8.9
+Mozilla/5.0 (Linux; Android 14; Redmi Note 14 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; 2312DRA50G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 7 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-A107F Build/RP1A.200720.012; wv) ... Chrome/152.0.7977.87 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; RMX3085 Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/152
+Mozilla/5.0 (Linux; Android 15; CPH2617 Build/AP3A.240617.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/142.0.7444.174 Mobile Safari/537.36 Instagram 407.0.0.55.243 Android (35/15; 272dpi; 720x1612; OPPO; CPH2617; OP5AD5L1; mt6833; en_GB; 827398212; IABMV/1)
+Mozilla/5.0 (Linux; Android 16; RMX3950 Build/BP2A.250605.015; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/153.0.8010.36 Mobile Safari/537.36
+Mozilla/5.0 (Linux; U; Android 15; Infinix X6728B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/153.0.8010.36 Mobile Safari/537.36 OPR/96.1.2254.80021
+Mozilla/5.0 (Linux; Android 16; V2419) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/131.0.6778.200 Mobile Safari/537.36 VivoBrowser/16.5.2.0
+Mozilla/5.0 (Linux; Android 16; TECNO LK7k Build/BP2A.250605.031.A3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/149.0.7827.159 Mobile Safari/537.36 Instagram 435.0.0.37.76 Android (36/16; 420dpi; 1080x2364; TECNO; TECNO LK7k; TECNO-LK7k; mt6858; en_US; 1001775622; IABMV/1)
+Mozilla/4.0 (compatible; MSIE 6.0; Linux; Motorola A910; 781) MOT-A910/R57_G_10.06.2FI Profile/MIDP-2.0 Configuration/CLDC-1.1 Opera 8.50 [en]
